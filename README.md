@@ -29,9 +29,8 @@ This project analyzes **real-world job listings data** to bring transparency int
 ## 🧰 Tools & Technologies Used
 | Tool | Purpose |
 |------|----------|
-| 🐍 Python (Pandas) | Data cleaning & preprocessing |
+| 🐍 Python (Pandas) | Data cleaning & preprocessing | KPI summary and aggregation |
 | 📈 Power BI | Dashboard visualization |
-| 📊 Excel | KPI summary and aggregation |
 | 💾 GitHub | Project version control & portfolio hosting |
 
 ---
